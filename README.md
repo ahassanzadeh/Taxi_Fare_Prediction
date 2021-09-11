@@ -7,10 +7,10 @@ points, this will result in an RMSE (Root Mean Square Error) of $5-$8, depending
 # The Data
 
 File descriptions
-• [train.csv](https://www.dropbox.com/s/mnty1y72gweqjj1/train.csv?dl=0) - Input features and target fare_amount values for the training set (about 55M rows).
-• [test.csv](https://www.dropbox.com/s/7cvc0s50u9350lo/test.csv?dl=0) - Input features for the test set (about 10K rows). Your goal is to predict fare_amount
+-  [train.csv](https://www.dropbox.com/s/mnty1y72gweqjj1/train.csv?dl=0) - Input features and target fare_amount values for the training set (about 55M rows).
+- [test.csv](https://www.dropbox.com/s/7cvc0s50u9350lo/test.csv?dl=0) - Input features for the test set (about 10K rows). Your goal is to predict fare_amount
 for each row.
-• [sample_submission.csv](https://www.dropbox.com/s/euh08kcj7khs89b/sample_submission.csv?dl=0) - a sample submission file in the correct format (columns key and fare_amount). This file 'predicts' fare_amount to be $11.35 for all rows, which is the mean fare_amount from the training set.
+- [sample_submission.csv](https://www.dropbox.com/s/euh08kcj7khs89b/sample_submission.csv?dl=0) - a sample submission file in the correct format (columns key and fare_amount). This file 'predicts' fare_amount to be $11.35 for all rows, which is the mean fare_amount from the training set.
 
 # Data fields
 
