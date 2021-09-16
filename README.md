@@ -1,4 +1,4 @@
-# Taxi_Fare_Prediction
+# Taxi Fare Prediction
 This is a challenge to predict the fare amount of a taxi ride in New York city, given the pickup and drop off locations. 
 
 While you can get a basic estimate based on just the distance between the two
